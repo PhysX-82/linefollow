@@ -18,6 +18,3 @@ while True:
 	else:
 		print("Off-Line"),
 		r.setDirection(-12)
-
-while (GPIO.input(26) == '1'
-    print(line)
