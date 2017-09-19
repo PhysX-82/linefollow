@@ -1,0 +1,10 @@
+motorA:
+  dir_A: 4
+  dir_B: 2
+  pwm: 17
+  freq: 50
+motorB:
+  dir_A: 21
+  dir_B: 16
+  pwm: 12
+  freq: 50
