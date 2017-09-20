@@ -27,3 +27,10 @@ Simple script to follow a black line with 1 sensor attached
       ```
 
 4. If the car cant finnish the tracks go adjust the parameters en either easytrack.py or hardtrack.py to your cars settings.
+
+Errors
+
+    ImportError: No module named yaml
+
+    install the yaml module: apt-get install python-yaml
+
