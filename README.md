@@ -21,7 +21,7 @@ Simple script to follow a black line with 1 sensor attached
       python hardtrack.py
       ```
     Easy Track:
-   
+
       ```python
       python easytrack.py
       ```
@@ -32,5 +32,4 @@ Errors
 
     ImportError: No module named yaml
 
-    install the yaml module: apt-get install python-yaml
-
+    install the yaml module: sudo apt-get install python-yaml

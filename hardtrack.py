@@ -12,11 +12,8 @@ r.setSpeed(12)
 
 while True:
 	if (GPIO.input(26)):
-		print("On-Line"),
+		print("On-Line")
 		r.setDirection(-10)
 	else:
 		print("Off-Line"),
 		r.setDirection(10)
-
-
-		
